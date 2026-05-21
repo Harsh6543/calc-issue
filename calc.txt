@@ -1,2 +1,3 @@
 this is bug in calculator
 add() function bug fixed
+divide() function bug fixed
