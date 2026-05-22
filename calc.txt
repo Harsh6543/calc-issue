@@ -1,4 +1,7 @@
+review-practice
+subtract() function added!
 this is bug in calculator
 add() function bug fixed
 divide() function bug fixed
 update README.md doc
+main
